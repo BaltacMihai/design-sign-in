@@ -12,4 +12,12 @@
 -  SCSS :heavy_check_mark:
 -  JavaScript :x:
 
-:bangbang: The application is responsive
+:bangbang: The application is **responsive**
+
+### :computer: Big screen view: :computer:
+
+![Laptop version](https://github.com/BaltacMihai/sign-in-design/blob/main/%23forGitReadMe/Laptop.PNG)
+
+### :iphone: Mobile view: :iphone:
+
+![Mobile version](https://github.com/BaltacMihai/sign-in-design/blob/main/%23forGitReadMe/Mobile.PNG)
