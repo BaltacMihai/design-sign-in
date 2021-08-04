@@ -6,8 +6,10 @@
 
 ## :wrench: Technologies used: :wrench:
 
-- [x] HTML 5
-- [x] CSS 3
-- [x] Bootstrap
-- [x] SCSS
-- [ ] JavaScript
+- HTML 5 :heavy_check_mark:
+- CSS 3 :heavy_check_mark:
+- Bootstrap :heavy_check_mark:
+-  SCSS :heavy_check_mark:
+-  JavaScript :x:
+
+:bangbang: The application is responsive
